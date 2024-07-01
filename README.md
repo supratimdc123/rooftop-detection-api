@@ -1,1 +1,1 @@
-# rooftop-detection-api
+# solarpanel-rooftop-detection-api
